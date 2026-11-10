@@ -20,6 +20,8 @@ code:
 
 6th but the final code to internet
 code: 
+        git add .
+        git commit -m 'Tell what you have changed'
         git push origin main
 
 
