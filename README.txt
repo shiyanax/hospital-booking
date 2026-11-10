@@ -24,4 +24,9 @@ code:
         git commit -m 'Tell what you have changed'
         git push origin main
 
+7th Tell the student to run the final command
+code: 
+        git pull
+
+
 
