@@ -26,6 +26,7 @@ code:
 
 7th Tell the student to run the final command
 code: 
+        git switch main
         git pull
 
 
