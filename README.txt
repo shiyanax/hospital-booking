@@ -16,7 +16,11 @@ code:
 
 5th now we merge 2 branches
 code:
-        git merge student-0
+        git switch -c student-iram origin/student-iram
+        git merge  student-iram
+        git merge student-moosa
+        git merge student-sheeza
+
 
 6th but the final code to internet
 code: 
